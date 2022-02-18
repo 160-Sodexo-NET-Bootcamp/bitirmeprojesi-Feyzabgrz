@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r5SZ3nYQLKQ57vKNTFRh0V42LxjJYIAYgwA/W0Na4ZeAnNQNLVIZKL8HNThaXenaN3xQybCWTiWzPfjGY1e0lw==",
+  "dgSpecHash": "arVpo8l8sw5UX//LbIwXjDkUlEi/A9fr2MVt+D2bbdu7JA9mpK0STyKrptQ9vA435YKo50HklCDlZMIMXYo56A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arsiv\\Downloads\\bitirmeprojesi-Feyzabgrz-main\\ProductCatalogProject\\ProductCatalogProjectAPI.csproj",
+  "projectFilePath": "C:\\Users\\Arsiv\\source\\repos\\bitirmeprojesi-Feyzabgrz\\ProductCatalogProject\\ProductCatalogProjectAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arsiv\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Arsiv\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

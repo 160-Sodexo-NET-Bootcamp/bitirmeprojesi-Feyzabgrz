@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qE0WhAXNkkKw7xbBWV/DiM9g0t9QwjbDU0Guln3RxtXFVtEWMVawEOFlv6aFRC6jIrnmWlIqJ8OCi1L42F43eA==",
+  "dgSpecHash": "7wMR/3PodHG9rHrlSCyCNHDnhMtX+elwfstyM4bwE9CRa+dZhCfl8IipVE+HwSLFp1QKEjTYg0aN7q9wHq1ChQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arsiv\\Downloads\\bitirmeprojesi-Feyzabgrz-main\\PCP.Data\\PCP.Data.csproj",
+  "projectFilePath": "C:\\Users\\Arsiv\\source\\repos\\bitirmeprojesi-Feyzabgrz\\PCP.Data\\PCP.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arsiv\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Arsiv\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",
