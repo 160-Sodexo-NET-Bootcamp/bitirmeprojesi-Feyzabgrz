@@ -1,0 +1,267 @@
+﻿++Solution 'ProductCatalogProject' ‎(5 of 5 projects)
+i:{00000000-0000-0000-0000-000000000000}:ProductCatalogProject.sln
+++ProductCatalogProjectAPI
+i:{00000000-0000-0000-0000-000000000000}:ProductCatalogProjectAPI
+++Connected Services 
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:>786
+++Dependencies
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:>785
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:>627
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:>628
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:>629
+i:{63c1c7fd-8bd1-4073-892b-980c58f4ee5c}:>630
+++Properties
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:c:\users\arsiv\desktop\newproductcatalog-main\productcatalogproject\properties\
+++Controller
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:c:\users\arsiv\desktop\newproductcatalog-main\productcatalogproject\controller\
+++BaseController.cs
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:c:\users\arsiv\desktop\newproductcatalog-main\productcatalogproject\controller\basecontroller.cs
+++CategoryController.cs
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:c:\users\arsiv\desktop\newproductcatalog-main\productcatalogproject\controller\categorycontroller.cs
+++ProductController.cs
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:c:\users\arsiv\desktop\newproductcatalog-main\productcatalogproject\controller\productcontroller.cs
+++UserController.cs
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:c:\users\arsiv\desktop\newproductcatalog-main\productcatalogproject\controller\usercontroller.cs
+++appsettings.json
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:c:\users\arsiv\desktop\newproductcatalog-main\productcatalogproject\appsettings.json
+++Program.cs
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:c:\users\arsiv\desktop\newproductcatalog-main\productcatalogproject\program.cs
+++Startup.cs
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:c:\users\arsiv\desktop\newproductcatalog-main\productcatalogproject\startup.cs
+++No service dependencies discovered
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:>787
+++Analyzers
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:analyzers
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:analyzers
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:analyzers
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:analyzers
+i:{63c1c7fd-8bd1-4073-892b-980c58f4ee5c}:analyzers
+++Frameworks
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:frameworks
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:frameworks
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:frameworks
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:frameworks
+i:{63c1c7fd-8bd1-4073-892b-980c58f4ee5c}:frameworks
+++Packages
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:packages
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:packages
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:packages
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:packages
+i:{63c1c7fd-8bd1-4073-892b-980c58f4ee5c}:packages
+++Projects
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:projects
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:projects
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:projects
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:projects
+++launchSettings.json
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:c:\users\arsiv\desktop\newproductcatalog-main\productcatalogproject\properties\launchsettings.json
+++appsettings.Development.json
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:c:\users\arsiv\desktop\newproductcatalog-main\productcatalogproject\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{63c1c7fd-8bd1-4073-892b-980c58f4ee5c}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{63c1c7fd-8bd1-4073-892b-980c58f4ee5c}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:c:\users\arsiv\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.11\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.11\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:c:\users\arsiv\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.11\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.11\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{63c1c7fd-8bd1-4073-892b-980c58f4ee5c}:c:\users\arsiv\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.11\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:c:\users\arsiv\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:c:\users\arsiv\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.AspNetCore.App
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:c:\users\arsiv\desktop\newproductcatalog-main\productcatalogproject\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:c:\users\arsiv\desktop\newproductcatalog-main\productcatalogproject\microsoft.netcore.app
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.data\microsoft.netcore.app
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.entities\microsoft.netcore.app
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.services\microsoft.netcore.app
+i:{63c1c7fd-8bd1-4073-892b-980c58f4ee5c}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.shared\microsoft.netcore.app
+++AutoMapper (11.0.1)
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:>816
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:>812
+++FluentValidation.AspNetCore (10.3.6)
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:>815
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:>851
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:>828
+i:{63c1c7fd-8bd1-4073-892b-980c58f4ee5c}:>842
+++Microsoft.AspNetCore.Authentication.JwtBearer (5.0.11)
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:>817
+++Microsoft.EntityFrameworkCore.Design (5.0.11)
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:>813
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:>796
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:>827
+++Swashbuckle.AspNetCore (5.6.3)
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:>814
+++PCP.Services
+i:{ed8995f5-a3e6-4fc2-9c7d-50bd31d72882}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.services\pcp.services.csproj
+i:{00000000-0000-0000-0000-000000000000}:PCP.Services
+++PCP.Data
+i:{00000000-0000-0000-0000-000000000000}:PCP.Data
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.data\pcp.data.csproj
+++Abstract
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.data\abstract\
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.services\abstract\
+++Concrete
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.data\concrete\
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.entities\concrete\
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.services\concrete\
+++Config
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.data\concrete\config\
+++CategoryConfig.cs
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.data\concrete\config\categoryconfig.cs
+++ProductConfig.cs
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.data\concrete\config\productconfig.cs
+++UserConfig.cs
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.data\concrete\config\userconfig.cs
+++DbContexts
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.data\concrete\dbcontexts\
+++ProductCatalogDbContext.cs
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.data\concrete\dbcontexts\productcatalogdbcontext.cs
+++UserToken.cs
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.data\concrete\dbcontexts\usertoken.cs
+++Repositories
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.data\concrete\repositories\
+++UnitOfWork
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.data\concrete\unitofwork\
+++Migrations
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.data\migrations\
+++20220217212803_Identity.cs
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.data\migrations\20220217212803_identity.cs
+++20220217212803_Identity.Designer.cs
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.data\migrations\20220217212803_identity.designer.cs
+++ProductCatalogDbContextModelSnapshot.cs
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.data\migrations\productcatalogdbcontextmodelsnapshot.cs
+++ICategoryRepository.cs
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.data\abstract\icategoryrepository.cs
+++IProductRepository.cs
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.data\abstract\iproductrepository.cs
+++CategoryRepository.cs
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.data\concrete\repositories\categoryrepository.cs
+++ProductRepository.cs
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.data\concrete\repositories\productrepository.cs
+++IUnitOfWork.cs
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.data\concrete\unitofwork\iunitofwork.cs
+++UnitOfWork.cs
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.data\concrete\unitofwork\unitofwork.cs
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (5.0.11)
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:>797
+++Microsoft.EntityFrameworkCore (5.0.11)
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:>794
+i:{63c1c7fd-8bd1-4073-892b-980c58f4ee5c}:>841
+++Microsoft.EntityFrameworkCore.Relational (5.0.11)
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:>798
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.11)
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:>795
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:>826
+++Microsoft.EntityFrameworkCore.Tools (5.0.11)
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:>799
+++PCP.Entities
+i:{dbe651b5-701d-4629-9c4b-d2135cbf5a3a}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.entities\pcp.entities.csproj
+i:{00000000-0000-0000-0000-000000000000}:PCP.Entities
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.entities\pcp.entities.csproj
+++Identity
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.entities\concrete\identity\
+++Role.cs
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.entities\concrete\identity\role.cs
+++User.cs
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.entities\concrete\identity\user.cs
+++Category.cs
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.entities\concrete\category.cs
+++Log.cs
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.entities\concrete\log.cs
+++Product.cs
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.entities\concrete\product.cs
+++Dtos
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.entities\dtos\
+++Enums
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.entities\enums\
+++CategoryDto.cs
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.entities\dtos\categorydto.cs
+++ProductDto.cs
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.entities\dtos\productdto.cs
+++UserDto.cs
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.entities\dtos\userdto.cs
+++AppEnums.cs
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.entities\enums\appenums.cs
+++Microsoft.AspNet.Identity.EntityFramework (2.2.3)
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:>850
+++Microsoft.Extensions.Identity.Stores (6.0.2)
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:>852
+++PCP.Shared
+i:{95d42d21-2c4a-4ae5-8645-3d2bb7117ec3}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.shared\pcp.shared.csproj
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.shared\pcp.shared.csproj
+i:{00000000-0000-0000-0000-000000000000}:PCP.Shared
+++ICategoryService.cs
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.services\abstract\icategoryservice.cs
+++ILogService.cs
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.services\abstract\ilogservice.cs
+++IProductService.cs
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.services\abstract\iproductservice.cs
+++CategoryService.cs
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.services\concrete\categoryservice.cs
+++LogService.cs
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.services\concrete\logservice.cs
+++ProductService.cs
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.services\concrete\productservice.cs
+++Extensions
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.services\extensions\
+++FluentValidator
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.services\fluentvalidator\
+++Validation
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.services\fluentvalidator\validation\
+++CategoryValidator.cs
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.services\fluentvalidator\validation\categoryvalidator.cs
+++ProductValidator.cs
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.services\fluentvalidator\validation\productvalidator.cs
+++UserValidator.cs
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.services\fluentvalidator\validation\uservalidator.cs
+++IValidatorFactory.cs
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.services\fluentvalidator\ivalidatorfactory.cs
+++ValidatorFactory.cs
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.services\fluentvalidator\validatorfactory.cs
+++Helpers
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.services\helpers\
+++ServiceCollectionExtensions.cs
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.services\servicecollectionextensions.cs
+++MappingProfile.cs
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.services\helpers\mappingprofile.cs
+++AutoMapper (10.1.1)
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:>830
+i:{63c1c7fd-8bd1-4073-892b-980c58f4ee5c}:>843
+++Microsoft.AspNetCore.Identity (2.2.0)
+i:{b92a940d-eb9a-439e-b6de-02fbf332a6d5}:>829
+++Data
+i:{63c1c7fd-8bd1-4073-892b-980c58f4ee5c}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.shared\data\
+++GenericRepository.cs
+i:{63c1c7fd-8bd1-4073-892b-980c58f4ee5c}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.shared\data\genericrepository.cs
+++IGenericRepository.cs
+i:{63c1c7fd-8bd1-4073-892b-980c58f4ee5c}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.shared\data\igenericrepository.cs
+++Entities
+i:{63c1c7fd-8bd1-4073-892b-980c58f4ee5c}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.shared\entities\
+++Results
+i:{63c1c7fd-8bd1-4073-892b-980c58f4ee5c}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.shared\results\
+++BaseEntity.cs
+i:{63c1c7fd-8bd1-4073-892b-980c58f4ee5c}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.shared\entities\baseentity.cs
+++IBaseEntity.cs
+i:{63c1c7fd-8bd1-4073-892b-980c58f4ee5c}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.shared\entities\ibaseentity.cs
+++Result.cs
+i:{63c1c7fd-8bd1-4073-892b-980c58f4ee5c}:c:\users\arsiv\desktop\newproductcatalog-main\pcp.shared\results\result.cs

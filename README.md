@@ -1,3 +1,5 @@
-# BitirmeProjesiSodexo
-
-[Sodexo .Net Örnek Bitirme Projesi v2 (1).pdf](https://github.com/Semra4141/BitirmeProjesiSodexo/files/8022593/Sodexo.Net.Ornek.Bitirme.Projesi.v2.1.pdf)
+# NewProductCatalog
+#UnitofWork ile Repository Design Pattern kullanılmıştır.
+#Kullanıcı login olduğunda hoşgeldin maili smtp ile gidecek olup appsettings dosyası içerisinde mail ve şifre bilgileri girilerek test edilebilir.
+#Database CodeFirst yöntemi ile oluşturulmuştur.
+:::///
